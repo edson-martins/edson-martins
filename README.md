@@ -20,7 +20,7 @@
 </p>
 
 <h2 align="center">Hello there! My name is Edson Martins. 👋 🤓</h2>
-<p align="center">I'm a Software Engineer from Brazil, currently working at Oracle focus on Oracle Retail Products.
+<p align="center">I'm a Lead Software Engineer and Architect from Brazil, currently working at Oracle focus on Oracle Retail Products.
 
 Motivated for transforming the state-of-the-art software solutions into a technology model used to connect the world, shaping the future of the next-generation from SaaS, PaaS, and IaaS oriented to generate business value and best user experience.
 
