@@ -26,6 +26,6 @@ Motivated for transforming the state-of-the-art software solutions into a techno
 
 Currently focusing on Software Engineering and Architecture based for Cloud Computing, Microservices, Reactive Architecture, Event/Message-Driven models on Java & Jakarta EE ecosystem, Docker, Kubernetes, Spring, Kafka, Axon, and Akka.
 
-Of course, I am not a fan of a particular tech stack, but focus on Back-end and Distributed Systems, and sometimes doing different things using Golang, ReactJS, and anything old or new...</p>
+Of course, I am not a fan of an only particular tech stack, but focus on Back-end and Distributed Systems, and sometimes doing different things using Golang, ReactJS, and anything old or new on technology...</p>
 
 <h3 align="center"> 👉 Why frog as my picture? Well. This is a long story from when I started my career. I got a nickname in my first job and they called me Kururu (a frog 😃).</h3>
