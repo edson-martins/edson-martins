@@ -28,4 +28,4 @@ Currently focusing on Software Engineering and Architecture based for Cloud Comp
 
 Of course, I am not a fan of an only particular tech stack, but focus on Back-end and Distributed Systems, and sometimes doing different things using Golang, ReactJS, and anything old or new on technology...</p>
 
-<h3 align="center"> 👉 Why frog as my picture? Well. This is a long story from when I started my career. I got a nickname in my first job and they called me Kururu (a frog 😃).</h3>
+<h3 align="center"> 👉 Why frog is my photo? well this is a long story from when I started my career. I got a nickname in my first job and they called me Kururu (a frog 😃).</h3>
